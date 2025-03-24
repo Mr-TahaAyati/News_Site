@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weblog-New", "Weblog-New\Weblog-New.csproj", "{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLayer", "CoreLayer\CoreLayer.csproj", "{A0D812C9-6655-4FAE-B9A0-6E74781EEBA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D812C9-6655-4FAE-B9A0-6E74781EEBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D812C9-6655-4FAE-B9A0-6E74781EEBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D812C9-6655-4FAE-B9A0-6E74781EEBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D812C9-6655-4FAE-B9A0-6E74781EEBA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A44528CC-2807-499F-ABE4-D34B98F1C34B}
+	EndGlobalSection
+EndGlobal
