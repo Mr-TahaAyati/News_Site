@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Cod\\ASP.Net\\Weblog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|d:\\cod\\asp.net\\weblog\\datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|d:\\cod\\asp.net\\weblog\\datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|d:\\cod\\asp.net\\weblog\\datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|d:\\cod\\asp.net\\weblog\\datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|d:\\cod\\asp.net\\weblog\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +46,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostComment.cs",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\PostComment.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entities\\PostComment.cs",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\PostComment.cs",
+              "RelativeToolTip": "DataLayer\\Entities\\PostComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:38:58.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entities\\User.cs",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\User.cs",
+              "RelativeToolTip": "DataLayer\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:30:20.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entities\\Category.cs",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "DataLayer\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:26:47.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Entities\\Post.cs",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\Post.cs",
+              "RelativeToolTip": "DataLayer\\Entities\\Post.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:21:07.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DataLayer.csproj",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj",
               "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
               "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj",
               "RelativeToolTip": "DataLayer\\DataLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-24T12:43:37.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CoreLayer.csproj",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\CoreLayer.csproj",
               "RelativeDocumentMoniker": "CoreLayer\\CoreLayer.csproj",

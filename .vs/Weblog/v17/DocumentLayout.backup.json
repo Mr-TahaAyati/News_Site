@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -27,12 +31,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataLayer",
+              "Title": "DataLayer.csproj",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj",
               "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
               "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj",
               "RelativeToolTip": "DataLayer\\DataLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-24T12:43:37.819Z",
               "EditorCaption": ""
@@ -40,7 +44,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CoreLayer",
+              "Title": "CoreLayer.csproj",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\CoreLayer.csproj",
               "RelativeDocumentMoniker": "CoreLayer\\CoreLayer.csproj",
               "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\CoreLayer.csproj",
@@ -49,10 +53,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-24T12:43:01.829Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
