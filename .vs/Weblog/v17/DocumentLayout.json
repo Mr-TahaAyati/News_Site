@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Cod\\ASP.Net\\Weblog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|d:\\cod\\asp.net\\weblog\\datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|d:\\cod\\asp.net\\weblog\\datalayer\\migrations\\20250326205746_init_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20250326205746_init_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|d:\\cod\\asp.net\\weblog\\datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|d:\\cod\\asp.net\\weblog\\datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\context\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|d:\\cod\\asp.net\\weblog\\weblog-new\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|solutionrelative:weblog-new\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|d:\\cod\\asp.net\\weblog\\weblog-new\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|solutionrelative:weblog-new\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|d:\\cod\\asp.net\\weblog\\weblog-new\\weblog-new.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|solutionrelative:weblog-new\\weblog-new.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|d:\\cod\\asp.net\\weblog\\datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\postcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|d:\\cod\\asp.net\\weblog\\datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|d:\\cod\\asp.net\\weblog\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DE74C07F-3052-4D0C-9433-B3E87EAFB5D0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0D812C9-6655-4FAE-B9A0-6E74781EEBA9}|CoreLayer\\CoreLayer.csproj|d:\\cod\\asp.net\\weblog\\corelayer\\corelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A0D812C9-6655-4FAE-B9A0-6E74781EEBA9}|CoreLayer\\CoreLayer.csproj|solutionrelative:corelayer\\corelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250326205746_init_database.cs",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Migrations\\20250326205746_init_database.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20250326205746_init_database.cs",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Migrations\\20250326205746_init_database.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20250326205746_init_database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:57:47.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\appsettings.json",
+              "RelativeDocumentMoniker": "Weblog-New\\appsettings.json",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\appsettings.json",
+              "RelativeToolTip": "Weblog-New\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T20:39:05.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Startup.cs",
+              "RelativeDocumentMoniker": "Weblog-New\\Startup.cs",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Startup.cs",
+              "RelativeToolTip": "Weblog-New\\Startup.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:35:46.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weblog-New",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Weblog-New.csproj",
+              "RelativeDocumentMoniker": "Weblog-New\\Weblog-New.csproj",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Weblog-New.csproj",
+              "RelativeToolTip": "Weblog-New\\Weblog-New.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T20:33:18.437Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -46,7 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "BlogContext.cs",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Context\\BlogContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Context\\BlogContext.cs",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Context\\BlogContext.cs",
+              "RelativeToolTip": "DataLayer\\Context\\BlogContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:31:51.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PostComment.cs",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\PostComment.cs",
               "RelativeDocumentMoniker": "DataLayer\\Entities\\PostComment.cs",
@@ -55,71 +120,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T20:38:58.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Entities\\User.cs",
-              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\User.cs",
-              "RelativeToolTip": "DataLayer\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T20:30:20.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Entities\\Category.cs",
-              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\Category.cs",
-              "RelativeToolTip": "DataLayer\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T20:26:47.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Post.cs",
-              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\Post.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Entities\\Post.cs",
-              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\Post.cs",
-              "RelativeToolTip": "DataLayer\\Entities\\Post.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T20:21:07.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DataLayer.csproj",
-              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj",
-              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
-              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj",
-              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-24T12:43:37.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CoreLayer.csproj",
-              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\CoreLayer.csproj",
-              "RelativeDocumentMoniker": "CoreLayer\\CoreLayer.csproj",
-              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\CoreLayer.csproj",
-              "RelativeToolTip": "CoreLayer\\CoreLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-24T12:43:01.829Z",
               "EditorCaption": ""
             }
           ]

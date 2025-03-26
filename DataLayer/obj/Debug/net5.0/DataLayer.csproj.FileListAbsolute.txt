@@ -1,0 +1,16 @@
+D:\Cod\ASP.Net\Weblog\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+D:\Cod\ASP.Net\Weblog\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.json
+D:\Cod\ASP.Net\Weblog\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.dev.json
+D:\Cod\ASP.Net\Weblog\DataLayer\bin\Debug\net5.0\DataLayer.dll
+D:\Cod\ASP.Net\Weblog\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+D:\Cod\ASP.Net\Weblog\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+D:\Cod\ASP.Net\Weblog\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cod\ASP.Net\Weblog\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+D:\Cod\ASP.Net\Weblog\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+D:\Cod\ASP.Net\Weblog\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\Cod\ASP.Net\Weblog\DataLayer\obj\Debug\net5.0\DataLayer.sourcelink.json
+D:\Cod\ASP.Net\Weblog\DataLayer\obj\Debug\net5.0\DataLayer.dll
+D:\Cod\ASP.Net\Weblog\DataLayer\obj\Debug\net5.0\refint\DataLayer.dll
+D:\Cod\ASP.Net\Weblog\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+D:\Cod\ASP.Net\Weblog\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache
+D:\Cod\ASP.Net\Weblog\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
