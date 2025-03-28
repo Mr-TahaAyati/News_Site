@@ -1,0 +1,22 @@
+﻿@page
+@model Weblog_New.Pages.Auth.LoginModel
+@{
+    Layout = "Shared/_AuthLayout";
+    ViewData["Title"] = "ثبت نام ";
+}
+<div class="container">
+    <h1>@ViewData["Title"]</h1><form>
+        <div class="input-group">
+            <i class="fa fa-user"></i>
+            <input type="text" placeholder="نام کاربری" required id="username" />
+        </div>
+        <div class="input-group">
+            <i class="fa fa-lock"></i>
+            <input type="password" placeholder="کلمه عبور" required id="password" />
+        </div>
+        <button type="submit" class="btn">ثبت نام</button>
+        <div class="links">
+            <a asp-page="Login">ورود</a>
+        </div>
+    </form>
+</div>

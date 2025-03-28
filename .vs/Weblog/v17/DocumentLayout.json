@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Cod\\ASP.Net\\Weblog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|d:\\cod\\asp.net\\weblog\\weblog-new\\pages\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|solutionrelative:weblog-new\\pages\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|d:\\cod\\asp.net\\weblog\\weblog-new\\pages\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|solutionrelative:weblog-new\\pages\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|d:\\cod\\asp.net\\weblog\\weblog-new\\wwwroot\\auth\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|solutionrelative:weblog-new\\wwwroot\\auth\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|d:\\cod\\asp.net\\weblog\\weblog-new\\pages\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|solutionrelative:weblog-new\\pages\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|d:\\cod\\asp.net\\weblog\\weblog-new\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CB856AD-2B6E-4AD1-8A21-5305C7E0E0E0}|Weblog-New\\Weblog-New.csproj|solutionrelative:weblog-new\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -46,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +74,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.css",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\wwwroot\\Auth\\css\\main.css",
+              "RelativeDocumentMoniker": "Weblog-New\\wwwroot\\Auth\\css\\main.css",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\wwwroot\\Auth\\css\\main.css",
+              "RelativeToolTip": "Weblog-New\\wwwroot\\Auth\\css\\main.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-28T20:55:29.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Weblog-New\\Pages\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Weblog-New\\Pages\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:43:31.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Weblog-New\\Pages\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Weblog-New\\Pages\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:41:49.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "Weblog-New\\Pages\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "Weblog-New\\Pages\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T20:15:10.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Weblog-New\\Pages\\Index.cshtml",
               "ToolTip": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Index.cshtml",
               "RelativeToolTip": "Weblog-New\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAIgGAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-28T12:37:24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "_MainHeader.cshtml",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Shared\\Headers\\_MainHeader.cshtml",
               "RelativeDocumentMoniker": "Weblog-New\\Pages\\Shared\\Headers\\_MainHeader.cshtml",
@@ -79,12 +147,11 @@
               "RelativeToolTip": "Weblog-New\\Pages\\Shared\\Headers\\_MainHeader.cshtml",
               "ViewState": "AgIAAHIAAAAAAAAAAAAowJIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T12:33:25.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T12:33:25.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "_TopBar.cshtml",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Shared\\Headers\\_TopBar.cshtml",
               "RelativeDocumentMoniker": "Weblog-New\\Pages\\Shared\\Headers\\_TopBar.cshtml",
@@ -92,12 +159,11 @@
               "RelativeToolTip": "Weblog-New\\Pages\\Shared\\Headers\\_TopBar.cshtml",
               "ViewState": "AgIAAA0AAAAAAAAAAAAowCQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T12:30:17.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T12:30:17.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "_SideNav.cshtml",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Shared\\Headers\\_SideNav.cshtml",
               "RelativeDocumentMoniker": "Weblog-New\\Pages\\Shared\\Headers\\_SideNav.cshtml",
@@ -105,12 +171,11 @@
               "RelativeToolTip": "Weblog-New\\Pages\\Shared\\Headers\\_SideNav.cshtml",
               "ViewState": "AgIAACwAAAAAAAAAAAAowDoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T12:27:50.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T12:27:50.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_Footer.cshtml",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Shared\\_Footer.cshtml",
               "RelativeDocumentMoniker": "Weblog-New\\Pages\\Shared\\_Footer.cshtml",
@@ -118,12 +183,11 @@
               "RelativeToolTip": "Weblog-New\\Pages\\Shared\\_Footer.cshtml",
               "ViewState": "AgIAAFMAAAAAAAAAAAAowHgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T12:23:48.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T12:23:48.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Weblog-New\\Pages\\Shared\\_Layout.cshtml",
@@ -131,12 +195,11 @@
               "RelativeToolTip": "Weblog-New\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACYAAAAAAAAAAAAAAC8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T12:16:31.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T12:16:31.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "20250326205746_init_database.cs",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Migrations\\20250326205746_init_database.cs",
               "RelativeDocumentMoniker": "DataLayer\\Migrations\\20250326205746_init_database.cs",
@@ -148,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "BlogContext.cs",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Context\\BlogContext.cs",
               "RelativeDocumentMoniker": "DataLayer\\Context\\BlogContext.cs",
@@ -156,12 +219,11 @@
               "RelativeToolTip": "DataLayer\\Context\\BlogContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T11:31:51.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T11:31:51.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "PostComment.cs",
               "DocumentMoniker": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\Entities\\PostComment.cs",
               "RelativeDocumentMoniker": "DataLayer\\Entities\\PostComment.cs",

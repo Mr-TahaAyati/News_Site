@@ -83,3 +83,6 @@ D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_Ma
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_SideNav.cshtml.g.cs
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_TopBar.cshtml.g.cs
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\_Footer.cshtml.g.cs
+D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Auth\Login.cshtml.g.cs
+D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Auth\Register.cshtml.g.cs
+D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\_AuthLayout.cshtml.g.cs
