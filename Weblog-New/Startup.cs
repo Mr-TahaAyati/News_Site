@@ -1,3 +1,4 @@
+using CoreLayer.Services.Users;
 using DataLayer.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -20,12 +21,13 @@ namespace Weblog_New
             Configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
+        public IConfiguration Configuration { get;  }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddScoped<IUserService, UserService>();
             services.AddDbContext<BlogContext>(option =>
             {
                 option.UseSqlServer(Configuration.GetConnectionString("Default"));

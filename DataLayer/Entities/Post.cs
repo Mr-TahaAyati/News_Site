@@ -8,10 +8,8 @@ using System.Threading.Tasks;
 
 namespace DataLayer.Entities
 {
-    public class Post
+    public class Post:BaseEntity
     {
-        [Key]
-        public int Id { get; set; }
         [Required]
         public string Title { get; set; }
         public int UserId { get; set; }
@@ -21,7 +19,6 @@ namespace DataLayer.Entities
         public int Visit { get; set; }
         [Required]
         public string Description { get; set; }
-
 
         [ForeignKey("UserId")]
         public User User { get; set; }

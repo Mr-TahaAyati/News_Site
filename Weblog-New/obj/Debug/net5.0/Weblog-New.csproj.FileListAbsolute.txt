@@ -56,9 +56,16 @@ D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Weblog-New.sourcelink.json
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Weblog-New.TagHelpers.input.cache
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Weblog-New.TagHelpers.output.cache
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Weblog-New.RazorCoreGenerate.cache
+D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Auth\Login.cshtml.g.cs
+D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Auth\Register.cshtml.g.cs
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_MainHeader.cshtml.g.cs
+D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_SideNav.cshtml.g.cs
+D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_TopBar.cshtml.g.cs
+D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\_AuthLayout.cshtml.g.cs
+D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\_Footer.cshtml.g.cs
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -79,10 +86,3 @@ D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\refint\Weblog-New.dll
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Weblog-New.pdb
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Weblog-New.genruntimeconfig.cache
 D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\ref\Weblog-New.dll
-D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_MainHeader.cshtml.g.cs
-D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_SideNav.cshtml.g.cs
-D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_TopBar.cshtml.g.cs
-D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\_Footer.cshtml.g.cs
-D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Auth\Login.cshtml.g.cs
-D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Auth\Register.cshtml.g.cs
-D:\Cod\ASP.Net\Weblog\Weblog-New\obj\Debug\net5.0\Razor\Pages\Shared\_AuthLayout.cshtml.g.cs

@@ -1,11 +1,15 @@
 D:\Cod\ASP.Net\Weblog\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
 D:\Cod\ASP.Net\Weblog\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
 D:\Cod\ASP.Net\Weblog\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+D:\Cod\ASP.Net\Weblog\CoreLayer\bin\Debug\net5.0\DataLayer.dll
+D:\Cod\ASP.Net\Weblog\CoreLayer\bin\Debug\net5.0\DataLayer.pdb
+D:\Cod\ASP.Net\Weblog\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
 D:\Cod\ASP.Net\Weblog\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
 D:\Cod\ASP.Net\Weblog\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
 D:\Cod\ASP.Net\Weblog\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
 D:\Cod\ASP.Net\Weblog\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
 D:\Cod\ASP.Net\Weblog\CoreLayer\obj\Debug\net5.0\CoreLayer.sourcelink.json
+D:\Cod\ASP.Net\Weblog\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.Up2Date
 D:\Cod\ASP.Net\Weblog\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
 D:\Cod\ASP.Net\Weblog\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
 D:\Cod\ASP.Net\Weblog\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb

@@ -1,18 +1,26 @@
 ﻿@page
-@model Weblog_New.Pages.Auth.LoginModel
+@model Weblog_New.Pages.Auth.RegisterModel
 @{
     Layout = "Shared/_AuthLayout";
     ViewData["Title"] = "ثبت نام ";
 }
 <div class="container">
-    <h1>@ViewData["Title"]</h1><form>
+    <form method="post">
+    <h1>@ViewData["Title"]</h1>
         <div class="input-group">
             <i class="fa fa-user"></i>
-            <input type="text" placeholder="نام کاربری" required id="username" />
+            <input type="text" asp-for="FullName" placeholder="نام و نام خانوادگی" />
+            <span asp-validation-for="FullName" style="color:red"></span>
+        </div>
+        <div class="input-group">
+            <i class="fa fa-user"></i>
+            <input type="text" asp-for="UserName" placeholder="نام کاربری" />
+            <span asp-validation-for="UserName" style="color:red"></span>
         </div>
         <div class="input-group">
             <i class="fa fa-lock"></i>
-            <input type="password" placeholder="کلمه عبور" required id="password" />
+            <input type="password" asp-for="Password" placeholder="کلمه عبور" required id="password" />
+            <span asp-validation-for="Password" style="color:red"></span>
         </div>
         <button type="submit" class="btn">ثبت نام</button>
         <div class="links">
@@ -20,3 +28,4 @@
         </div>
     </form>
 </div>
+
