@@ -17,10 +17,12 @@ namespace CoreLayer.Services.Users
         {
             _context = context;
         }
+
+
         public OperationResult RegisterUser(UserRegisterDto registerDto)
         {
-            var isUserNameExist = _context.Users.Any(u => u.UserName == registerDto.UserName);
-            if (isUserNameExist)
+            var IsUserExist = _context.Users.Any(u => u.UserName == registerDto.UserName);
+            if (IsUserExist)
                 return OperationResult.Error("نام کاربری تکراری است");
             var passwordHash = registerDto.Password.EncodeToMd5();
             _context.Users.Add(new User()
@@ -33,6 +35,16 @@ namespace CoreLayer.Services.Users
                 CreationDate = DateTime.Now
             });
             _context.SaveChanges(); 
+            return OperationResult.Success();
+        }
+        public OperationResult LoginUser(LoginUserDto loginDto)
+        {
+            var PasswordHashed = loginDto.Password.EncodeToMd5();
+            var IsUserExist = _context.Users.Any(u=> u.UserName==loginDto.UserName && u.Password== PasswordHashed);
+            if(IsUserExist == false)
+            {
+                return OperationResult.NotFound();
+            }
             return OperationResult.Success();
         }
     }

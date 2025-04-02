@@ -8,6 +8,8 @@ using System.Net.NetworkInformation;
 
 namespace Weblog_New.Pages.Auth
 {
+    [ValidateAntiForgeryToken]
+    [BindProperties]
     public class RegisterModel : PageModel
     {
         private readonly IUserService _userService;
@@ -40,6 +42,10 @@ namespace Weblog_New.Pages.Auth
         }
         public IActionResult OnPost()
         {
+            if(ModelState.IsValid==false)
+            {
+                return Page();
+            }
             var result = _userService.RegisterUser(new UserRegisterDto
             {
                 UserName = UserName,
