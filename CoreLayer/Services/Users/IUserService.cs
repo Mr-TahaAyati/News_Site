@@ -11,6 +11,7 @@ namespace CoreLayer.Services.Users
     public interface IUserService
     {
         OperationResult RegisterUser(UserRegisterDto registerDto);
-        OperationResult LoginUser(LoginUserDto loginDto);
+        UserDto LoginUser(LoginUserDto loginDto);
+
     }
 }

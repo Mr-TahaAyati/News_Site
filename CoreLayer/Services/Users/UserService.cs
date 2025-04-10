@@ -37,15 +37,23 @@ namespace CoreLayer.Services.Users
             _context.SaveChanges(); 
             return OperationResult.Success();
         }
-        public OperationResult LoginUser(LoginUserDto loginDto)
+        public UserDto LoginUser(LoginUserDto loginDto)
         {
             var PasswordHashed = loginDto.Password.EncodeToMd5();
-            var IsUserExist = _context.Users.Any(u=> u.UserName==loginDto.UserName && u.Password== PasswordHashed);
-            if(IsUserExist == false)
+           var  user = _context.Users.FirstOrDefault(u=> u.UserName==loginDto.UserName && u.Password== PasswordHashed);
+            if(user == null) 
+                return null;
+
+            var userDto = new UserDto()
             {
-                return OperationResult.NotFound();
-            }
-            return OperationResult.Success();
+                FullName = user.FullName,
+                Password = user.Password,
+                Role = user.Role,
+                UserName = user.UserName,
+                UserId = user.Id,
+                RegisterDate = user.CreationDate
+            };
+            return userDto;
         }
     }
 }
