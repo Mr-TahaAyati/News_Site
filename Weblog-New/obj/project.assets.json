@@ -6047,11 +6047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Weblog-New.csproj",
+      "projectUniqueName": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\Weblog-New\\Weblog-New.csproj",
       "projectName": "Weblog-New",
-      "projectPath": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Weblog-New.csproj",
+      "projectPath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\Weblog-New\\Weblog-New.csproj",
       "packagesPath": "C:\\Users\\Soleimani\\.nuget\\packages\\",
-      "outputPath": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\obj\\",
+      "outputPath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\Weblog-New\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Soleimani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6069,11 +6069,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\CoreLayer.csproj": {
-              "projectPath": "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\CoreLayer.csproj"
+            "C:\\Users\\Soleimani\\source\\repos\\Weblog\\CoreLayer\\CoreLayer.csproj": {
+              "projectPath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\CoreLayer\\CoreLayer.csproj"
             },
-            "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj"
+            "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\DataLayer.csproj"
             }
           }
         }

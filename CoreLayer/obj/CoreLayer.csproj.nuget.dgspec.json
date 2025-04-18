@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\CoreLayer.csproj": {}
+    "C:\\Users\\Soleimani\\source\\repos\\Weblog\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\CoreLayer.csproj": {
+    "C:\\Users\\Soleimani\\source\\repos\\Weblog\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\CoreLayer.csproj",
+        "projectPath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\CoreLayer\\CoreLayer.csproj",
         "packagesPath": "C:\\Users\\Soleimani\\.nuget\\packages\\",
-        "outputPath": "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\obj\\",
+        "outputPath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Soleimani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj"
+              "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\DataLayer.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj",
+        "projectPath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\Soleimani\\.nuget\\packages\\",
-        "outputPath": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Soleimani\\AppData\\Roaming\\NuGet\\NuGet.Config",

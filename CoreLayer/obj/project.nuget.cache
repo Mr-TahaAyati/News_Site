@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P0fEoSOD8zY=",
+  "dgSpecHash": "NsVm57LR7w0=",
   "success": true,
-  "projectFilePath": "D:\\Cod\\ASP.Net\\Weblog\\CoreLayer\\CoreLayer.csproj",
+  "projectFilePath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\CoreLayer\\CoreLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Soleimani\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Soleimani\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

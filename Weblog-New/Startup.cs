@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.FileSystemGlobbing.Internal.Patterns;
 using Microsoft.Extensions.Hosting;
 using System;
 using System.Collections.Generic;
@@ -29,6 +30,7 @@ namespace Weblog_New
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddControllersWithViews();
             services.AddScoped<IUserService, UserService>();
             services.AddDbContext<BlogContext>(option =>
             {
@@ -70,7 +72,10 @@ namespace Weblog_New
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+                endpoints.MapControllerRoute(
+                    name:"Default",
+                    pattern:"{area:exists}/{controller=Home}/{action=Index}/{id?}"
+                    );
             });
         }
     }

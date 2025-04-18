@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ot7+/bMskxc=",
+  "dgSpecHash": "x7QvzdpzA80=",
   "success": true,
-  "projectFilePath": "D:\\Cod\\ASP.Net\\Weblog\\Weblog-New\\Weblog-New.csproj",
+  "projectFilePath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\Weblog-New\\Weblog-New.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Soleimani\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Soleimani\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

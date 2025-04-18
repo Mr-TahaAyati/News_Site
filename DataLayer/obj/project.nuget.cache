@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nqGEurFh40s=",
+  "dgSpecHash": "Yx2q9NQ82Jo=",
   "success": true,
-  "projectFilePath": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj",
+  "projectFilePath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\DataLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Soleimani\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Soleimani\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -102,5 +102,12 @@
     "C:\\Users\\Soleimani\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Soleimani\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

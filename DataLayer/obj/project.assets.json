@@ -6046,11 +6046,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\DataLayer.csproj",
       "projectName": "DataLayer",
-      "projectPath": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\DataLayer.csproj",
+      "projectPath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\Soleimani\\.nuget\\packages\\",
-      "outputPath": "D:\\Cod\\ASP.Net\\Weblog\\DataLayer\\obj\\",
+      "outputPath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Soleimani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6119,5 +6119,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
